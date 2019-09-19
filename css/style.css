@@ -1,0 +1,17 @@
+body{
+    background-color: white;
+    background-repeat: no-repeat;
+    
+}
+.section-one {
+    background-color: black;
+    background-size: 300px 100px;
+
+
+}
+.nav-one {
+    display: none;
+}
+.nav-two {
+    background-color: rgb(37, 37, 37)
+}
